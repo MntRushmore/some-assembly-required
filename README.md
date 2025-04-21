@@ -1,4 +1,4 @@
-# Some Assembly Required
+# Some Assembly Requireds
 
 ### An approachable introduction to assembly.
 
